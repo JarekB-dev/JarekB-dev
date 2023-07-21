@@ -8,7 +8,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif" width="600"/>
 </div>
 
 <h2 align='center'>
