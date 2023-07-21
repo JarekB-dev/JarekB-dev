@@ -8,7 +8,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif" width="600"/>
+  <img src="https://blog.yurimotatech.com/wp-content/uploads/2022/02/Hello-World-Python.png" width="600"/>
 </div>
 
 <h2 align='center'>
