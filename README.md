@@ -18,6 +18,6 @@
 </p>
 
 <p align='left'>At the moment I have finished 3 out of 5 projects, which are can be seen below:</p>
-<a href="https://jarekb-dev.github.io/KitchenMakers/" target=_blank>Kitchen Makers</a>
+<a href="https://jarekb-dev.github.io/KitchenMakers/" target="_blank">Kitchen Makers</a>
 
 ---
