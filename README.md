@@ -1,5 +1,8 @@
+<div id="header" align="center">
+  <img src="https://i.ibb.co/qdRKKGK/image-asset-fotor-bg-remover-20230721185343.png" width="400"/>
+</div>
 <h1 align='center'>
-  Hello, 👋 I'm Jarek
+ I'm Jarek
 </h1>
 <h3 align='center'>
   An Aspiring Software Developer.
@@ -7,9 +10,7 @@
 
 
 
-<div id="header" align="center">
-  <img src="https://i.ibb.co/qdRKKGK/image-asset-fotor-bg-remover-20230721185343.png" width="600"/>
-</div>
+
 
 <h2 align='center'>
   About Me
