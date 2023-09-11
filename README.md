@@ -1,7 +1,6 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=2500&pause=50&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=200&lines=Hello+World;I'm+Jarek;an+Aspiring+Software+Developer" alt="Typing SVG" /></a></p>
 
-![visitors](https://vbr.wocr.tk/badge?page_id=JarekB-Dev.JarekB-Dev&color=00cf00)
-
+![](https://komarev.com/ghpvc/?username=JarekB-dev&color=green)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center" id="user-content-toc">
